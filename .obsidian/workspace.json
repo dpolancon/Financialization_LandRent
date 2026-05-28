@@ -11,10 +11,14 @@
             "id": "bfeb976c3333d15a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/questions/PDF003_Q01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PDF003_Q01"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "bfeb976c3333d15a",
   "lastOpenFiles": [
+    "notes/questions/PDF001_Q01.md",
     "02_LitRev_Sistematica/05_prompts/02_prompt_autonomous.md",
     "02_LitRev_Sistematica/02_prompt_autonomous.md",
     "02_LitRev_Sistematica/05_prompts/01_master_per_paper_executor.md",
@@ -188,7 +193,6 @@
     "scripts/Sin confirmar 822115.crdownload",
     "scripts/generate_all_question_templates.py",
     "scripts/Sin confirmar 386301.crdownload",
-    "notes/questions/PDF001_Q01.md",
     "notes/questions",
     "notes",
     "scripts/save_note.py",

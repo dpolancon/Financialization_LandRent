@@ -12,6 +12,7 @@ from pathlib import Path
 EXCEL_PATH = "02_LitRev_Sistematica/land_rent_financialization_literature_registry.xlsx"
 OUTPUT_DIR = Path("notes/questions")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+OVERWRITE = "--overwrite" in os.sys.argv
 
 # Load Excel sheets
 xls = pd.ExcelFile(EXCEL_PATH)
@@ -112,6 +113,10 @@ use: "{q_row['Expected output / use']}"
 
     # Write file
     file_path = OUTPUT_DIR / f"{qid}.md"
+    if file_path.exists() and not OVERWRITE:
+        print(f"⏭️  Exists, not overwriting: {file_path}")
+        continue
+
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(yaml_block + md_body)
         
