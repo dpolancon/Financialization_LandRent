@@ -1,0 +1,102 @@
+# Per-paper question index
+
+| Source ID | Question ID | Paper | Tag | Question |
+|---|---|---|---|---|
+| PDF001 | [[PDF001_Q01]] | Unbalanced Growth and Land Overvaluation | research question | What problem does the paper call the disconnection between land’s declining productive role and land’s continuing role as a store of value? |
+| PDF001 | [[PDF001_Q02]] | Unbalanced Growth and Land Overvaluation | formal result | What are the formal conditions behind the Land Overvaluation Theorem, especially the role of unbalanced productivity growth and elasticity of substitution above one? |
+| PDF001 | [[PDF001_Q03]] | Unbalanced Growth and Land Overvaluation | mechanism | How is the fundamental value of land defined, and how does overvaluation differ from a pure speculative bubble? |
+| PDF001 | [[PDF001_Q04]] | Unbalanced Growth and Land Overvaluation | formal result | Which empirical facts and figures motivate the theorem, including the decline of land-intensive sectors and the wealth share of real estate? |
+| PDF001 | [[PDF001_Q05]] | Unbalanced Growth and Land Overvaluation | formal result | How does the urban-land application extend the general theorem? |
+| PDF001 | [[PDF001_Q06]] | Unbalanced Growth and Land Overvaluation | mechanism | What mathematical objects are essential for a 5–15 page project memo, and which can be relegated to footnotes? |
+| PDF001 | [[PDF001_Q07]] | Unbalanced Growth and Land Overvaluation | critique | What are the limitations of treating land overvaluation through substitution elasticity and technological progress for Latin American land-rent financialization? |
+| PDF002 | [[PDF002_Q01]] | Land and Infinite Debt Rollover | research question | What conventional McCallum/Homburg result about land, R>G, and debt rollover is being challenged? |
+| PDF002 | [[PDF002_Q02]] | Land and Infinite Debt Rollover | formal result | Under what conditions do land bubbles necessarily emerge in the OLG land economy? |
+| PDF002 | [[PDF002_Q03]] | Land and Infinite Debt Rollover | mechanism | How can Pareto efficiency coexist with infinite debt rollover in the model? |
+| PDF002 | [[PDF002_Q04]] | Land and Infinite Debt Rollover | mechanism | Why does the paper argue that unbalanced growth is necessary for debt rollover with land? |
+| PDF002 | [[PDF002_Q05]] | Land and Infinite Debt Rollover | mechanism | How does the CES production example revise the knife-edge balanced-growth result? |
+| PDF002 | [[PDF002_Q06]] | Land and Infinite Debt Rollover | mechanism | What distinctions should the project memo make between R<G in a landless model and R<G or rollover in a land economy? |
+| PDF002 | [[PDF002_Q07]] | Land and Infinite Debt Rollover | critique | What critical caveats matter before applying this framework to public debt debates in Latin America? |
+| PDF003 | [[PDF003_Q01]] | Credit, Land Speculation, and Low-Interest-Rate Policy | research question | What are the main empirical facts on sectoral credit expansion that motivate the model? |
+| PDF003 | [[PDF003_Q02]] | Credit, Land Speculation, and Low-Interest-Rate Policy | mechanism | How does the paper distinguish credit expansion for real estate from credit expansion for capital investment? |
+| PDF003 | [[PDF003_Q03]] | Credit, Land Speculation, and Low-Interest-Rate Policy | mechanism | What is the general-equilibrium crowding-out mechanism from land speculation to lower capital formation? |
+| PDF003 | [[PDF003_Q04]] | Credit, Land Speculation, and Low-Interest-Rate Policy | policy/welfare | How does low-interest-rate policy affect portfolio allocation when land is an alternative store of value? |
+| PDF003 | [[PDF003_Q05]] | Credit, Land Speculation, and Low-Interest-Rate Policy | policy/welfare | What welfare distribution appears between the generation enjoying the asset boom and later generations facing lower growth? |
+| PDF003 | [[PDF003_Q06]] | Credit, Land Speculation, and Low-Interest-Rate Policy | policy/welfare | How does this version differ from PDF013 and PDF005 in framing policy, credit, and monetary easing? |
+| PDF003 | [[PDF003_Q07]] | Credit, Land Speculation, and Low-Interest-Rate Policy | mechanism | What concepts should be extracted for the project’s answer to private credit expansion and land-price inflation? |
+| PDF004 | [[PDF004_Q01]] | Growth and Fluctuations Economies with Land Speculation | research question | What is the paper’s organizing research program across wobbly dynamics, land, credit, and endogenous growth? |
+| PDF004 | [[PDF004_Q02]] | Growth and Fluctuations Economies with Land Speculation | mechanism | How do multiple momentary equilibria create many rational-expectations trajectories within bounds? |
+| PDF004 | [[PDF004_Q03]] | Growth and Fluctuations Economies with Land Speculation | mechanism | How does land increase the scope for fluctuations relative to the baseline OLG model? |
+| PDF004 | [[PDF004_Q04]] | Growth and Fluctuations Economies with Land Speculation | mechanism | How do credit frictions and land speculation jointly generate lower growth or stagnation traps? |
+| PDF004 | [[PDF004_Q05]] | Growth and Fluctuations Economies with Land Speculation | mechanism | Which results are an overview of earlier papers and which are new in this paper? |
+| PDF004 | [[PDF004_Q06]] | Growth and Fluctuations Economies with Land Speculation | mechanism | How can this paper help write a non-technical map of the Hirano-Stiglitz research program? |
+| PDF004 | [[PDF004_Q07]] | Growth and Fluctuations Economies with Land Speculation | translation | What should be treated as background rather than a core result for the Fondecyt memo? |
+| PDF005 | [[PDF005_Q01]] | Henry George, Land Speculation, and Economic Growth and Transformation | research question | What is the Henry George question being reconstructed in modern growth-and-finance terms? |
+| PDF005 | [[PDF005_Q02]] | Henry George, Land Speculation, and Economic Growth and Transformation | policy/welfare | What counterfactuals does the paper use to analyze land speculation: landlord class, land reform, taxes, public ownership? |
+| PDF005 | [[PDF005_Q03]] | Henry George, Land Speculation, and Economic Growth and Transformation | policy/welfare | How does land speculation reduce productive capital investment and long-run welfare? |
+| PDF005 | [[PDF005_Q04]] | Henry George, Land Speculation, and Economic Growth and Transformation | policy/welfare | What policy instruments mitigate speculation: land-rent tax, capital-gains tax, nationalization/public investment, financial regulation? |
+| PDF005 | [[PDF005_Q05]] | Henry George, Land Speculation, and Economic Growth and Transformation | mechanism | How does the paper challenge Kiyotaki-Moore-style collateral optimism? |
+| PDF005 | [[PDF005_Q06]] | Henry George, Land Speculation, and Economic Growth and Transformation | translation | Which arguments are directly portable to Latin American land-use and localization-rent debates? |
+| PDF005 | [[PDF005_Q07]] | Henry George, Land Speculation, and Economic Growth and Transformation | critique | What are the strongest limitations of the model’s institutional assumptions for peripheral economies? |
+| PDF006 | [[PDF006_Q01]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | research question | What is wobbly macro-dynamics and how does it differ from smooth convergence in representative-agent or Solow/RBC models? |
+| PDF006 | [[PDF006_Q02]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | What assumptions produce multiplicity of momentary equilibria in the life-cycle model? |
+| PDF006 | [[PDF006_Q03]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | What is the difference between phase transitions and state transitions? |
+| PDF006 | [[PDF006_Q04]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | How do productivity changes generate instability, hysteresis, or stagnation traps? |
+| PDF006 | [[PDF006_Q05]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | What does this baseline paper contribute before land is introduced? |
+| PDF006 | [[PDF006_Q06]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | Which concepts are necessary for interpreting later land-speculation papers and which are optional? |
+| PDF006 | [[PDF006_Q07]] | The Wobbly Economy: Global Dynamics with Phase and State Transitions | mechanism | How can the review explain this model simply to non-specialist project investigators? |
+| PDF007 | [[PDF007_Q01]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | research question | How does adding land to the OLG global-dynamics model change the dynamics of capital, wages, output, and land prices? |
+| PDF007 | [[PDF007_Q02]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | mechanism | What is the feedback loop between land prices and capital accumulation? |
+| PDF007 | [[PDF007_Q03]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | mechanism | How do land booms become rational-expectations trajectories rather than irrational bubbles? |
+| PDF007 | [[PDF007_Q04]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | mechanism | What critical thresholds force transitions from bullish to bearish expectations or vice versa? |
+| PDF007 | [[PDF007_Q05]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | mechanism | How does land crowd out productive capital and worsen macro instability? |
+| PDF007 | [[PDF007_Q06]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | policy/welfare | What policy interventions are analyzed and what are their welfare effects? |
+| PDF007 | [[PDF007_Q07]] | Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions | mechanism | Which parts of this model help answer the project question on land-price inflation and capital formation? |
+| PDF008 | [[PDF008_Q01]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | research question | What is the positive feedback loop between capital investment and land price in the model? |
+| PDF008 | [[PDF008_Q02]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | mechanism | What is the leverage threshold that separates the fundamental region from the land-bubble region? |
+| PDF008 | [[PDF008_Q03]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | mechanism | How does the model define a phase transition from balanced growth to unbalanced bubbly growth? |
+| PDF008 | [[PDF008_Q04]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | mechanism | How do productivity improvements and financial loosening interact in generating land bubbles? |
+| PDF008 | [[PDF008_Q05]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | mechanism | What is the relation among low interest rates, asset overvaluation, and top-end wealth concentration? |
+| PDF008 | [[PDF008_Q06]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | mechanism | How does this paper differ from the OLG Hirano-Stiglitz wobbly-dynamics papers? |
+| PDF008 | [[PDF008_Q07]] | Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles | formal result | Which theorem/proposition should be extracted for a compact explanation of leverage-driven land bubbles? |
+| PDF009 | [[PDF009_Q01]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | research question | How does the paper define the problem of measuring wealth for sustainability? |
+| PDF009 | [[PDF009_Q02]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | mechanism | What is the conceptual difference between measured wealth and productive capital? |
+| PDF009 | [[PDF009_Q03]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | mechanism | Why can land-value increases raise wealth without increasing productive capacity? |
+| PDF009 | [[PDF009_Q04]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | mechanism | How does the paper connect real-estate bubbles, capitalized rents, and sustainability mismeasurement? |
+| PDF009 | [[PDF009_Q05]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | policy/welfare | What is the missing-capital problem in recessions and how does it matter for policy interpretation? |
+| PDF009 | [[PDF009_Q06]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | mechanism | Which measurement distinctions should structure the opening of the literature review? |
+| PDF009 | [[PDF009_Q07]] | The Measurement of Wealth: Recessions, Sustainability and Inequality | mechanism | What critical language can be used to connect this paper to localization rents and financialization? |
+| PDF010 | [[PDF010_Q01]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | research question | What does Part IV add to the wealth-residual argument through land and credit? |
+| PDF010 | [[PDF010_Q02]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | mechanism | How do land rents, positional goods, and land bubbles explain increases in wealth and inequality? |
+| PDF010 | [[PDF010_Q03]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | policy/welfare | How do monetary policy, collateral requirements, and capital adequacy affect land values and inequality? |
+| PDF010 | [[PDF010_Q04]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | mechanism | What is the mechanism by which land accumulation crowds out real capital accumulation? |
+| PDF010 | [[PDF010_Q05]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | policy/welfare | How does land taxation reduce the gap between measured wealth and productive capital? |
+| PDF010 | [[PDF010_Q06]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | mechanism | How does this paper anticipate later Hirano-Stiglitz credit-land-growth models? |
+| PDF010 | [[PDF010_Q07]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit | formal result | What are its most useful propositions for a critique of credit-led financialization? |
+| PDF011 | [[PDF011_Q01]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | research question | What is the wealth residual and why can saving data not explain the rise in wealth-income ratios? |
+| PDF011 | [[PDF011_Q02]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | How does the paper distinguish wealth, capital, and rents? |
+| PDF011 | [[PDF011_Q03]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | What kinds of rents matter: land rents, exploitation rents, intellectual-property rents? |
+| PDF011 | [[PDF011_Q04]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | How are the new stylized facts of growth and distribution used to criticize standard capital-labor models? |
+| PDF011 | [[PDF011_Q05]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | What elements are foundational for later land-credit papers? |
+| PDF011 | [[PDF011_Q06]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | How should the literature review use this paper without overloading the memo with distribution theory? |
+| PDF011 | [[PDF011_Q07]] | New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual | mechanism | What bridges can be made to a heterodox/political-economy reading of rent and financialization? |
+| PDF012 | [[PDF012_Q01]] | Land Bubbles Despite Non-Vanishing Rents | research question | What empirical objection about stationary housing rent-yield ratios is this short paper answering? |
+| PDF012 | [[PDF012_Q02]] | Land Bubbles Despite Non-Vanishing Rents | mechanism | Why must housing rent be separated into rent on structures and pure land rent? |
+| PDF012 | [[PDF012_Q03]] | Land Bubbles Despite Non-Vanishing Rents | mechanism | How can a land bubble exist despite a non-vanishing or constant housing rent yield? |
+| PDF012 | [[PDF012_Q04]] | Land Bubbles Despite Non-Vanishing Rents | mechanism | What is the minimal model and what assumptions are essential? |
+| PDF012 | [[PDF012_Q05]] | Land Bubbles Despite Non-Vanishing Rents | evidence | How should this paper discipline the project’s use of empirical rent-price indicators? |
+| PDF012 | [[PDF012_Q06]] | Land Bubbles Despite Non-Vanishing Rents | evidence | What does it imply for Latin American housing/real-estate datasets that combine structures and land? |
+| PDF012 | [[PDF012_Q07]] | Land Bubbles Despite Non-Vanishing Rents | mechanism | What is the cleanest way to summarize this as a measurement warning in the final memo? |
+| PDF013 | [[PDF013_Q01]] | Credit, Land Speculation, and Long-Run Economic Growth | research question | What is the sectoral-credit hypothesis in the paper? |
+| PDF013 | [[PDF013_Q02]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | How does the two-sector endogenous growth model separate manufacturing/productive capital from real estate/land? |
+| PDF013 | [[PDF013_Q03]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | What are the credit constraints and collateral parameters, and how do they shape investment allocation? |
+| PDF013 | [[PDF013_Q04]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | Why can lower collateral requirements or lower interest rates reduce rather than increase growth? |
+| PDF013 | [[PDF013_Q05]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | How does the model resolve the finite-land-price puzzle when the safe rate is below output growth? |
+| PDF013 | [[PDF013_Q06]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | What are the key differences between small-open-economy and closed-economy versions? |
+| PDF013 | [[PDF013_Q07]] | Credit, Land Speculation, and Long-Run Economic Growth | mechanism | What should be extracted as the main answer to the project question on private credit and land-price inflation? |
+| PDF014 | [[PDF014_Q01]] | Land, G versus R, and Infinite Debt Rollover | research question | What is new or cleaner in this CIGS version relative to PDF002? |
+| PDF014 | [[PDF014_Q02]] | Land, G versus R, and Infinite Debt Rollover | mechanism | How does the paper formulate the relation between land, G versus R, and infinite debt rollover? |
+| PDF014 | [[PDF014_Q03]] | Land, G versus R, and Infinite Debt Rollover | mechanism | Why does balanced growth in an economy with land tend to preclude debt rollover? |
+| PDF014 | [[PDF014_Q04]] | Land, G versus R, and Infinite Debt Rollover | formal result | Under what unbalanced-growth conditions can land bubbles and debt rollover emerge? |
+| PDF014 | [[PDF014_Q05]] | Land, G versus R, and Infinite Debt Rollover | mechanism | How does the paper revise McCallum’s claim about Pareto efficiency in land economies? |
+| PDF014 | [[PDF014_Q06]] | Land, G versus R, and Infinite Debt Rollover | mechanism | What should the literature review say about using R versus G as a sufficient condition for rollover? |
+| PDF014 | [[PDF014_Q07]] | Land, G versus R, and Infinite Debt Rollover | mechanism | What open questions remain for applying the model to fiscal and financialized-land regimes in Latin America? |
