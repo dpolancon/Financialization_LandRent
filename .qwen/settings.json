@@ -1,0 +1,123 @@
+{
+  "modelProviders": {
+    "openai": [
+      {
+        "id": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "name": "Together · Llama 3.3 70B Instruct Turbo",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 128000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "Qwen/Qwen3.5-9B",
+        "name": "Together · Qwen3.5 9B",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 256000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "google/gemma-4-31B-it",
+        "name": "Together · Gemma 4 31B IT",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 256000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "openai/gpt-oss-20b",
+        "name": "Together · GPT-OSS 20B",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 128000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "LiquidAI/LFM2-24B-A2B",
+        "name": "Together · LFM2 24B A2B",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 32000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "Qwen/Qwen3.5-397B-A17B",
+        "name": "Together · Qwen3.5 397B A17B",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 256000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "moonshotai/Kimi-K2.6",
+        "name": "Together · Kimi K2.6",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 256000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "deepseek-ai/DeepSeek-V4-Pro",
+        "name": "Together · DeepSeek V4 Pro",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 512000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      },
+      {
+        "id": "zai-org/GLM-5.1",
+        "name": "Together · GLM 5.1",
+        "baseUrl": "https://api.together.ai/v1",
+        "envKey": "TOGETHER_API_KEY",
+        "generationConfig": {
+          "contextWindowSize": 202000,
+          "samplingParams": {
+            "temperature": 0.2
+          }
+        }
+      }
+    ]
+  },
+  "security": {
+    "auth": {
+      "selectedType": "openai"
+    }
+  },
+  "model": {
+    "name": "Qwen/Qwen3.5-9B"
+  },
+  "$version": 4
+}

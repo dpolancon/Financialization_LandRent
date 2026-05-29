@@ -2,7 +2,8 @@
   "metadata": {
     "total_papers": 14,
     "total_questions": 98,
-    "total_clusters": 6
+    "total_clusters": 6,
+    "total_cluster_questions": 32
   },
   "questions": [
     {
@@ -1278,6 +1279,1040 @@
       "year": 2026,
       "venue": "CIGS Working Paper Series No. 26-002E",
       "cluster_name": "Land, R versus G, and infinite debt rollover"
+    }
+  ],
+  "papers": [
+    {
+      "source_id": "PDF001",
+      "filename": "HIRANO_ETAL_2025b.pdf",
+      "citation_key": "Hirano_Toda_2025b",
+      "authors": "Tomohiro Hirano; Alexis Akira Toda",
+      "year": 2025,
+      "title": "Unbalanced Growth and Land Overvaluation",
+      "venue": "CIGS Working Paper Series No. 25-011E; forthcoming at PNAS",
+      "cluster_id": "C4",
+      "priority": "High",
+      "core_object": "Land overvaluation theorem; land as store of value under unbalanced growth",
+      "main_mechanism": "When non-land sectors experience faster technological progress and substitution elasticity between land and non-land factors exceeds one, land prices can rise above rent fundamentals even as land’s production role declines.",
+      "project_role": "Core theorem for the review; explains land overvaluation through unbalanced growth rather than irrational exuberance."
+    },
+    {
+      "source_id": "PDF002",
+      "filename": "HIRANO_ETAL_2025a.pdf",
+      "citation_key": "Hirano_Toda_2025a",
+      "authors": "Tomohiro Hirano; Alexis Akira Toda",
+      "year": 2025,
+      "title": "Land and Infinite Debt Rollover",
+      "venue": "arXiv:2508.16002v2",
+      "cluster_id": "C5",
+      "priority": "High",
+      "core_object": "Infinite debt rollover in OLG economy with land",
+      "main_mechanism": "Unbalanced growth weakens the standard land-economy result that R>G blocks Ponzi rollover; land bubbles can coexist with Pareto efficiency and debt rollover.",
+      "project_role": "Core source for debt rollover question and critique of R versus G reasoning when land is present."
+    },
+    {
+      "source_id": "PDF003",
+      "filename": "HIRANO_STIGLITZ_2025c.pdf",
+      "citation_key": "Hirano_Stiglitz_2025c",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2025,
+      "title": "Credit, Land Speculation, and Low-Interest-Rate Policy",
+      "venue": "Working paper / manuscript; version August 21, 2025",
+      "cluster_id": "C3",
+      "priority": "High",
+      "core_object": "Low interest rates, credit composition, land speculation, long-run growth",
+      "main_mechanism": "Credit expansions tied to real estate financing and low-rate policy redirect savings toward land speculation, crowding out productive capital investment and reducing long-term productivity growth.",
+      "project_role": "Core source for credit expansion and interest-rate policy mechanisms."
+    },
+    {
+      "source_id": "PDF004",
+      "filename": "HIRANO_STIGLITZ_2025b.pdf",
+      "citation_key": "Hirano_Stiglitz_2025b",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2025,
+      "title": "Growth and Fluctuations Economies with Land Speculation",
+      "venue": "NBER Working Paper No. 33589",
+      "cluster_id": "C2",
+      "priority": "Medium",
+      "core_object": "Overview of OLG global dynamics with land, credit frictions, endogenous growth",
+      "main_mechanism": "Land introduces an alternative store of value and amplifies nonlinear rational-expectations dynamics, producing bounded but persistent fluctuations and possible stagnation traps.",
+      "project_role": "Bridge paper that summarizes the research program and connects wobbly dynamics, land speculation, and credit."
+    },
+    {
+      "source_id": "PDF005",
+      "filename": "HIRANO_STIGLITZ_2025a.pdf",
+      "citation_key": "Hirano_Stiglitz_2025a",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2025,
+      "title": "Henry George, Land Speculation, and Economic Growth and Transformation",
+      "venue": "Oxford Review of Economic Policy, 41(2), 326–357",
+      "cluster_id": "C6",
+      "priority": "High",
+      "core_object": "Land speculation, land taxation, growth, institutional arrangements",
+      "main_mechanism": "Land speculation diverts savings away from productive capital; land taxes, rent taxation, and public ownership/nationalization can mitigate growth-retarding speculation.",
+      "project_role": "Policy and institutional anchor; useful for connecting theory to land reform, taxation, and regulation."
+    },
+    {
+      "source_id": "PDF006",
+      "filename": "HIRANO_STIGLITZ_2022b.pdf",
+      "citation_key": "Hirano_Stiglitz_2022b",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2022,
+      "title": "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+      "venue": "NBER Working Paper No. 29806",
+      "cluster_id": "C2",
+      "priority": "Medium",
+      "core_object": "Wobbly macro-dynamics without land as baseline global-dynamics framework",
+      "main_mechanism": "Multiplicity of momentary equilibria in a life-cycle model can generate bounded non-convergent rational-expectations paths, phase transitions, and hysteresis.",
+      "project_role": "Theoretical baseline for understanding the later land-speculation models."
+    },
+    {
+      "source_id": "PDF007",
+      "filename": "HIRANO_STIGLITZ_2022a.pdf",
+      "citation_key": "Hirano_Stiglitz_2022a",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2022,
+      "title": "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+      "venue": "NBER Working Paper No. 29745",
+      "cluster_id": "C2",
+      "priority": "High",
+      "core_object": "Land speculation and endogenous boom-bust dynamics",
+      "main_mechanism": "Land prices interact with capital accumulation; rising land prices crowd out productive capital and can trigger endogenous phase transitions between unique and multiple equilibria.",
+      "project_role": "Core dynamic model for real-estate booms, busts, and rational land-price fluctuations."
+    },
+    {
+      "source_id": "PDF008",
+      "filename": "HIRANO_ETAL_2024.pdf",
+      "citation_key": "Hirano_Jinnai_Toda_2024",
+      "authors": "Tomohiro Hirano; Ryo Jinnai; Alexis Akira Toda",
+      "year": 2024,
+      "title": "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+      "venue": "arXiv:2211.13100v7",
+      "cluster_id": "C4",
+      "priority": "High",
+      "core_object": "Leverage threshold, phase transition, unbalanced growth, land bubbles",
+      "main_mechanism": "Relaxed leverage strengthens the feedback loop between land prices and capital investment; beyond a critical threshold, the economy shifts from balanced fundamental valuation to unbalanced bubbly growth.",
+      "project_role": "Formal bridge between finance, leverage, and unbalanced growth; complements the Land Overvaluation Theorem."
+    },
+    {
+      "source_id": "PDF009",
+      "filename": "STIGLITZ_2015c.pdf",
+      "citation_key": "Stiglitz_2015c",
+      "authors": "Joseph E. Stiglitz",
+      "year": 2015,
+      "title": "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+      "venue": "NBER Working Paper No. 21327",
+      "cluster_id": "C1",
+      "priority": "High",
+      "core_object": "Wealth measurement, sustainability, land rents, missing capital",
+      "main_mechanism": "Measured wealth can rise through capitalized rents, especially land, without any increase in productive capacity; downturns can destroy unmeasured productive potential.",
+      "project_role": "Measurement foundation for distinguishing land-value inflation from productive-capacity formation."
+    },
+    {
+      "source_id": "PDF010",
+      "filename": "STIGLITZ_2015b.pdf",
+      "citation_key": "Stiglitz_2015b",
+      "authors": "Joseph E. Stiglitz",
+      "year": 2015,
+      "title": "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+      "venue": "NBER Working Paper No. 21192",
+      "cluster_id": "C1",
+      "priority": "High",
+      "core_object": "Land, credit, monetary policy, inequality",
+      "main_mechanism": "Land-price increases, bubbles, collateral rules, and lower interest rates can raise measured wealth and inequality while crowding out real capital accumulation.",
+      "project_role": "Pre-Hirano/Stiglitz foundation for linking land, credit, wealth inequality, and financial policy."
+    },
+    {
+      "source_id": "PDF011",
+      "filename": "STIGLITZ_2015a.pdf",
+      "citation_key": "Stiglitz_2015a",
+      "authors": "Joseph E. Stiglitz",
+      "year": 2015,
+      "title": "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+      "venue": "NBER Working Paper No. 21189",
+      "cluster_id": "C1",
+      "priority": "Medium",
+      "core_object": "Wealth residual; capital versus wealth; rents",
+      "main_mechanism": "The rise in wealth-income ratios cannot be explained by saving alone; land rents, exploitation rents, and intellectual-property rents help explain divergence between wealth and productive capital.",
+      "project_role": "Conceptual starting point for why land-price capitalization matters for distribution and measurement."
+    },
+    {
+      "source_id": "PDF012",
+      "filename": "AKIRATODA_2025.pdf",
+      "citation_key": "Toda_2025",
+      "authors": "Alexis Akira Toda",
+      "year": 2025,
+      "title": "Land Bubbles Despite Non-Vanishing Rents",
+      "venue": "Economics Letters, 257, 112708",
+      "cluster_id": "C4",
+      "priority": "Medium",
+      "core_object": "Land bubbles with constant housing rent yield",
+      "main_mechanism": "Separating pure land rent from rent on housing structures shows that land bubbles can exist even when observed housing rent-to-price ratios appear stationary.",
+      "project_role": "Measurement warning: do not infer absence of land bubbles from aggregate housing rent yields."
+    },
+    {
+      "source_id": "PDF013",
+      "filename": "HIRANO_STIGLITZ_2021.pdf",
+      "citation_key": "Hirano_Stiglitz_2024_stored2021",
+      "authors": "Tomohiro Hirano; Joseph E. Stiglitz",
+      "year": 2024,
+      "title": "Credit, Land Speculation, and Long-Run Economic Growth",
+      "venue": "NBER Working Paper No. 32479",
+      "cluster_id": "C3",
+      "priority": "High",
+      "core_object": "Sectoral credit expansion, real-estate finance, long-run growth",
+      "main_mechanism": "Credit to construction/real estate predicts productivity and growth slowdowns, while credit to manufacturing is growth-enhancing; land speculation can crowd out productive investment.",
+      "project_role": "Core paper for task items 2.1 and 2.2; probably the main technical source before policy-updated versions."
+    },
+    {
+      "source_id": "PDF014",
+      "filename": "HIRANO_ETAL_2026.pdf",
+      "citation_key": "Hirano_Toda_2026",
+      "authors": "Tomohiro Hirano; Alexis Akira Toda",
+      "year": 2026,
+      "title": "Land, G versus R, and Infinite Debt Rollover",
+      "venue": "CIGS Working Paper Series No. 26-002E",
+      "cluster_id": "C5",
+      "priority": "High",
+      "core_object": "Land, R versus G, debt rollover, unbalanced growth",
+      "main_mechanism": "The land economy changes the theoretical meaning of R versus G; balanced growth tends to restore R>G, while unbalanced growth can permit debt rollover and land bubbles.",
+      "project_role": "Latest CIGS version for debt-rollover synthesis; compare against PDF002."
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "paper_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "recommended_sequence": "Start here",
+      "synthesis_objective": "Define why land-price inflation can raise measured wealth without expanding productive capacity; establish the measurement problem behind land-rent financialization."
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "paper_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "recommended_sequence": "Then dynamics",
+      "synthesis_objective": "Explain how OLG global dynamics and endogenous phase transitions generate bounded but unstable rational-expectations paths, especially once land is introduced."
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "paper_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "recommended_sequence": "Then credit-growth mechanism",
+      "synthesis_objective": "Explain how sectoral credit expansion, collateral rules, and low rates push funds into real estate/land rather than productive capital."
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "paper_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "recommended_sequence": "Then theorem layer",
+      "synthesis_objective": "Reconstruct the land-overvaluation theorem and the broader unbalanced-growth/land-bubble logic, including leverage thresholds and rent-yield measurement warnings."
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "paper_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "recommended_sequence": "Then fiscal theory implication",
+      "synthesis_objective": "Clarify how land alters the debt rollover debate and why unbalanced growth is needed to escape the balanced-growth R>G land-economy result."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "paper_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "recommended_sequence": "Final synthesis",
+      "synthesis_objective": "Translate the literature into policy/institutional language: land taxation, financial regulation, Latin American land-use regimes, localization rents, and financialization.",
+      "paper_ids_inference": "Original registry says \"PDF005 plus selected PDFs from C1-C5\"; because selected PDFs are not enumerated and C6 questions are corpus-level policy/Fondecyt synthesis, Phase 2 uses all 14 sources."
+    }
+  ],
+  "cluster_questions": [
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "question_id": "C1_Q01",
+      "cluster_question_id": "C1_Q01",
+      "question_text": "Across PDF009–PDF011, what is the cleanest definition of the difference between wealth and productive capital?",
+      "expected_answer_type": "Definition block",
+      "use_in_note_system": "Conceptual glossary",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "related_paper_titles": [
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual"
+      ]
+    },
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "question_id": "C1_Q02",
+      "cluster_question_id": "C1_Q02",
+      "question_text": "How do capitalized land rents generate increases in measured wealth without expanding productive capacity?",
+      "expected_answer_type": "Mechanism paragraph",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "related_paper_titles": [
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual"
+      ]
+    },
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "question_id": "C1_Q03",
+      "cluster_question_id": "C1_Q03",
+      "question_text": "How does the wealth residual prepare the ground for the later land-bubble and credit-speculation papers?",
+      "expected_answer_type": "Bridge paragraph",
+      "use_in_note_system": "Literature map",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "related_paper_titles": [
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual"
+      ]
+    },
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "question_id": "C1_Q04",
+      "cluster_question_id": "C1_Q04",
+      "question_text": "What measurement warnings should be carried into any empirical analysis of land, housing, or real estate wealth?",
+      "expected_answer_type": "Warning list",
+      "use_in_note_system": "Methods note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "related_paper_titles": [
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual"
+      ]
+    },
+    {
+      "cluster_id": "C1",
+      "cluster_name": "Measurement, wealth-capital distinction, and rent capitalization",
+      "question_id": "C1_Q05",
+      "cluster_question_id": "C1_Q05",
+      "question_text": "What elements of Stiglitz’s rent framework are closest to heterodox rent/financialization language?",
+      "expected_answer_type": "Critical translation",
+      "use_in_note_system": "Theory bridge",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF009",
+        "PDF010",
+        "PDF011"
+      ],
+      "related_paper_titles": [
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual"
+      ]
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "question_id": "C2_Q01",
+      "cluster_question_id": "C2_Q01",
+      "question_text": "What is the minimal explanation of wobbly dynamics suitable for investigators who do not work on nonlinear OLG theory?",
+      "expected_answer_type": "Plain-language explanation",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "related_paper_titles": [
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Growth and Fluctuations Economies with Land Speculation"
+      ]
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "question_id": "C2_Q02",
+      "cluster_question_id": "C2_Q02",
+      "question_text": "How does the introduction of land change the baseline wobbly economy relative to the no-land model?",
+      "expected_answer_type": "Comparative mechanism",
+      "use_in_note_system": "Literature map",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "related_paper_titles": [
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Growth and Fluctuations Economies with Land Speculation"
+      ]
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "question_id": "C2_Q03",
+      "cluster_question_id": "C2_Q03",
+      "question_text": "What are phase transitions and why do they matter for real-estate boom-bust cycles?",
+      "expected_answer_type": "Definition + mechanism",
+      "use_in_note_system": "Conceptual glossary",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "related_paper_titles": [
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Growth and Fluctuations Economies with Land Speculation"
+      ]
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "question_id": "C2_Q04",
+      "cluster_question_id": "C2_Q04",
+      "question_text": "How does land speculation crowd out capital accumulation in dynamic terms?",
+      "expected_answer_type": "Mechanism paragraph",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "related_paper_titles": [
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Growth and Fluctuations Economies with Land Speculation"
+      ]
+    },
+    {
+      "cluster_id": "C2",
+      "cluster_name": "Wobbly dynamics, phase transitions, and land-price instability",
+      "question_id": "C2_Q05",
+      "cluster_question_id": "C2_Q05",
+      "question_text": "Which parts of the wobbly-dynamics cluster are essential for the final memo and which are background?",
+      "expected_answer_type": "Prioritization",
+      "use_in_note_system": "Workflow control",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF006",
+        "PDF007",
+        "PDF004"
+      ],
+      "related_paper_titles": [
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Growth and Fluctuations Economies with Land Speculation"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q01",
+      "cluster_question_id": "C3_Q01",
+      "question_text": "What is the difference between aggregate credit expansion and sectoral credit expansion in the Hirano-Stiglitz credit papers?",
+      "expected_answer_type": "Mechanism distinction",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q02",
+      "cluster_question_id": "C3_Q02",
+      "question_text": "How exactly does credit to real estate or lower real-estate collateral requirements inflate land prices?",
+      "expected_answer_type": "Causal chain",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q03",
+      "cluster_question_id": "C3_Q03",
+      "question_text": "Under what conditions does credit expansion crowd out productive capital rather than crowding it in?",
+      "expected_answer_type": "Conditions list",
+      "use_in_note_system": "Formal result",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q04",
+      "cluster_question_id": "C3_Q04",
+      "question_text": "How do low interest rates operate when land is an alternative store of value besides money and capital?",
+      "expected_answer_type": "Policy mechanism",
+      "use_in_note_system": "Policy note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q05",
+      "cluster_question_id": "C3_Q05",
+      "question_text": "What empirical literature is mobilized on real-estate credit versus manufacturing credit and productivity growth?",
+      "expected_answer_type": "Evidence inventory",
+      "use_in_note_system": "Evidence note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C3",
+      "cluster_name": "Credit, land speculation, low rates, and capital crowding-out",
+      "question_id": "C3_Q06",
+      "cluster_question_id": "C3_Q06",
+      "question_text": "How should the review separate short-run asset booms from long-run growth effects?",
+      "expected_answer_type": "Temporal distinction",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF013",
+        "PDF003"
+      ],
+      "related_paper_titles": [
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy"
+      ]
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "question_id": "C4_Q01",
+      "cluster_question_id": "C4_Q01",
+      "question_text": "What is the conceptual and formal relation between unbalanced growth and land bubbles/overvaluation across PDF008, PDF001, and PDF012?",
+      "expected_answer_type": "Cross-paper theorem map",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "related_paper_titles": [
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "Unbalanced Growth and Land Overvaluation",
+        "Land Bubbles Despite Non-Vanishing Rents"
+      ]
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "question_id": "C4_Q02",
+      "cluster_question_id": "C4_Q02",
+      "question_text": "How does the Land Overvaluation Theorem differ from leverage-driven bubble necessity?",
+      "expected_answer_type": "Comparative theorem note",
+      "use_in_note_system": "Formal result",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "related_paper_titles": [
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "Unbalanced Growth and Land Overvaluation",
+        "Land Bubbles Despite Non-Vanishing Rents"
+      ]
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "question_id": "C4_Q03",
+      "cluster_question_id": "C4_Q03",
+      "question_text": "What roles are played by elasticity of substitution, differential productivity growth, and leverage thresholds?",
+      "expected_answer_type": "Parameter map",
+      "use_in_note_system": "Formal result",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "related_paper_titles": [
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "Unbalanced Growth and Land Overvaluation",
+        "Land Bubbles Despite Non-Vanishing Rents"
+      ]
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "question_id": "C4_Q04",
+      "cluster_question_id": "C4_Q04",
+      "question_text": "How should the memo distinguish land overvaluation, rational bubble, asset bubble, and observed housing-price inflation?",
+      "expected_answer_type": "Glossary",
+      "use_in_note_system": "Conceptual glossary",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "related_paper_titles": [
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "Unbalanced Growth and Land Overvaluation",
+        "Land Bubbles Despite Non-Vanishing Rents"
+      ]
+    },
+    {
+      "cluster_id": "C4",
+      "cluster_name": "Unbalanced growth, leverage, land bubbles, and overvaluation",
+      "question_id": "C4_Q05",
+      "cluster_question_id": "C4_Q05",
+      "question_text": "What does the Toda rent-yield note imply about empirical measures using housing rents instead of pure land rents?",
+      "expected_answer_type": "Measurement warning",
+      "use_in_note_system": "Methods note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF008",
+        "PDF001",
+        "PDF012"
+      ],
+      "related_paper_titles": [
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "Unbalanced Growth and Land Overvaluation",
+        "Land Bubbles Despite Non-Vanishing Rents"
+      ]
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "question_id": "C5_Q01",
+      "cluster_question_id": "C5_Q01",
+      "question_text": "What is the standard land-economy argument that R>G blocks infinite debt rollover?",
+      "expected_answer_type": "Baseline reconstruction",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Land and Infinite Debt Rollover",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ]
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "question_id": "C5_Q02",
+      "cluster_question_id": "C5_Q02",
+      "question_text": "How does unbalanced growth reopen the possibility of debt rollover in an economy with land?",
+      "expected_answer_type": "Mechanism paragraph",
+      "use_in_note_system": "Core synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Land and Infinite Debt Rollover",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ]
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "question_id": "C5_Q03",
+      "cluster_question_id": "C5_Q03",
+      "question_text": "How can land bubbles coexist with Pareto efficiency in these models?",
+      "expected_answer_type": "Formal explanation",
+      "use_in_note_system": "Formal result",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Land and Infinite Debt Rollover",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ]
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "question_id": "C5_Q04",
+      "cluster_question_id": "C5_Q04",
+      "question_text": "What exactly is wrong with applying the Diamond landless rollover intuition to an economy with land?",
+      "expected_answer_type": "Critical comparison",
+      "use_in_note_system": "Literature map",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Land and Infinite Debt Rollover",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ]
+    },
+    {
+      "cluster_id": "C5",
+      "cluster_name": "Land, R versus G, and infinite debt rollover",
+      "question_id": "C5_Q05",
+      "cluster_question_id": "C5_Q05",
+      "question_text": "Which version, PDF002 or PDF014, should be treated as the main source for the final memo?",
+      "expected_answer_type": "Version-control note",
+      "use_in_note_system": "Workflow control",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF002",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Land and Infinite Debt Rollover",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ]
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q01",
+      "cluster_question_id": "C6_Q01",
+      "question_text": "How can the Henry George policy article be used as the policy-facing synthesis of the whole branch?",
+      "expected_answer_type": "Policy synthesis",
+      "use_in_note_system": "Policy note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q02",
+      "cluster_question_id": "C6_Q02",
+      "question_text": "What regulatory tools appear across the corpus: land taxation, capital-gains taxation, financial regulation, collateral rules, public investment?",
+      "expected_answer_type": "Policy inventory",
+      "use_in_note_system": "Policy note",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q03",
+      "cluster_question_id": "C6_Q03",
+      "question_text": "What assumptions are too abstract for direct application to Latin America, especially ownership structures, credit systems, urban land-use regimes, and peripheral external constraints?",
+      "expected_answer_type": "Critical limitation",
+      "use_in_note_system": "Critique",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q04",
+      "cluster_question_id": "C6_Q04",
+      "question_text": "How can the corpus be translated into the project language of land usage, localization rents, and financialization in Latin America?",
+      "expected_answer_type": "Fondecyt translation",
+      "use_in_note_system": "Project synthesis",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q05",
+      "cluster_question_id": "C6_Q05",
+      "question_text": "What alternative theoretical literatures should be added later to avoid a purely neoclassical/OLG framing of land rent?",
+      "expected_answer_type": "Gap map",
+      "use_in_note_system": "Research extension",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
+    },
+    {
+      "cluster_id": "C6",
+      "cluster_name": "Policy, Henry George, regulation, and Fondecyt translation",
+      "question_id": "C6_Q06",
+      "cluster_question_id": "C6_Q06",
+      "question_text": "What is the final 5–15 page memo architecture that emerges from these clusters?",
+      "expected_answer_type": "Outline request",
+      "use_in_note_system": "Deliverable design",
+      "status": "Pending",
+      "related_source_ids": [
+        "PDF001",
+        "PDF002",
+        "PDF003",
+        "PDF004",
+        "PDF005",
+        "PDF006",
+        "PDF007",
+        "PDF008",
+        "PDF009",
+        "PDF010",
+        "PDF011",
+        "PDF012",
+        "PDF013",
+        "PDF014"
+      ],
+      "related_paper_titles": [
+        "Unbalanced Growth and Land Overvaluation",
+        "Land and Infinite Debt Rollover",
+        "Credit, Land Speculation, and Low-Interest-Rate Policy",
+        "Growth and Fluctuations Economies with Land Speculation",
+        "Henry George, Land Speculation, and Economic Growth and Transformation",
+        "The Wobbly Economy: Global Dynamics with Phase and State Transitions",
+        "Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions",
+        "Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles",
+        "The Measurement of Wealth: Recessions, Sustainability and Inequality",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit",
+        "New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual",
+        "Land Bubbles Despite Non-Vanishing Rents",
+        "Credit, Land Speculation, and Long-Run Economic Growth",
+        "Land, G versus R, and Infinite Debt Rollover"
+      ],
+      "source_inference": "Original C6 source membership is not enumerated; using all 14 sources because the question is corpus-level synthesis."
     }
   ]
 }

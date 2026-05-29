@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "54b1497cc0db3f48",
+        "id": "0390a68139572a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "bfeb976c3333d15a",
+            "id": "7584490e84fc91c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/questions/PDF003_Q01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PDF003_Q01"
+              "title": "New tab"
             }
           }
         ]
@@ -183,26 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "bfeb976c3333d15a",
+  "active": "3b07fc53dca7302e",
   "lastOpenFiles": [
-    "notes/questions/PDF001_Q01.md",
-    "02_LitRev_Sistematica/05_prompts/02_prompt_autonomous.md",
-    "02_LitRev_Sistematica/02_prompt_autonomous.md",
-    "02_LitRev_Sistematica/05_prompts/01_master_per_paper_executor.md",
-    "scripts/save_notes_batch.py",
-    "scripts/Sin confirmar 822115.crdownload",
-    "scripts/generate_all_question_templates.py",
-    "scripts/Sin confirmar 386301.crdownload",
-    "notes/questions",
-    "notes",
-    "scripts/save_note.py",
-    "scripts/Sin confirmar 152888.crdownload",
-    "02_LitRev_Sistematica/04_indexes/I02_per_paper_question_index.md",
-    "00_LitRev_Sistematica/notebooklm_question_notes_bundle/02_cluster_question_notes/C1/C1_Q04.md",
-    "00_LitRev_Sistematica/notebooklm_question_notes_bundle/02_cluster_question_notes/C1/C1_Q03.md",
-    "00_LitRev_Sistematica/notebooklm_question_notes_bundle/02_cluster_question_notes/C1/C1_Q02.md",
-    "00_LitRev_Sistematica/notebooklm_question_notes_bundle/02_cluster_question_notes/C1/C1_Q01.md",
-    "00_LitRev_Sistematica/notebooklm_question_notes_bundle/01_per_paper_question_notes/PDF002/PDF002_Q01.md",
-    "00_LitRev_Sistematica/manual_progress/PDF001_N01.md"
+    "06_drafts/v1_systematic_review_draft.md",
+    "06_drafts",
+    "05_scripts/create_draft.py",
+    "05_scripts/__pycache__/validate_phase2_clusters.cpython-314.pyc",
+    "05_scripts/__pycache__/fetch_notebooklm_answers.cpython-314.pyc",
+    "05_scripts/__pycache__/fetch_cluster_notebooklm_answers.cpython-314.pyc",
+    "05_scripts/__pycache__/build_cluster_evidence_map.cpython-314.pyc",
+    "05_scripts/__pycache__",
+    "05_scripts/validate_phase3a_synthesis.py",
+    "05_scripts/validate_phase2_clusters.py",
+    "05_scripts/save_notes_batch.py",
+    "SKILLS/SYSTEMATIC_REVIEW_ORCHESTRATOR.md",
+    "SKILLS/SKILL_SYSTEMATIC_REVIEW_LANDRENT.md",
+    "SKILLS/SKILL_PHASE3_LANDRENT_SYNTHESIS.md",
+    "SKILLS/SKILL_editing_systematic_review.md",
+    "SKILLS/SKILL_drafting_systematic_review.md",
+    "SKILLS/README.md",
+    "SKILLS/codex_prompt_bootstrap.md",
+    "04_review_artifacts/05_reports/phase3a_validation_report.md",
+    "04_review_artifacts/05_reports/phase3a_execution_report_2026-05-29.md",
+    "04_review_artifacts/04_memo_architecture/detailed_memo_outline.md",
+    "04_review_artifacts/03_synthesis/gap_and_transportability_memo.md",
+    "04_review_artifacts/03_synthesis/thematic_synthesis_map.md",
+    "04_review_artifacts/02_extraction/variable_parameter_ledger.md",
+    "04_review_artifacts/02_extraction/mechanism_ledger.md",
+    "04_review_artifacts/02_extraction/concept_dictionary.md",
+    "04_review_artifacts/01_registries/note_integrity_report.md",
+    "05_skills/SKILL_PHASE3_LANDRENT_SYNTHESIS.md",
+    "04_review_artifacts/00_protocol/phase3_synthesis_protocol.md",
+    "03_notes/clusters/C5_Q04.md",
+    "05_skills/codex_prompt_bootstrap.md",
+    "05_skills/README.md",
+    "05_skills/SKILL_editing_systematic_review.md",
+    "02_LitRev_Sistematica/reports/phase2_execution_report_2026-05-29.md",
+    "05_skills/SYSTEMATIC_REVIEW_ORCHESTRATOR.md",
+    "05_skills/SKILL_drafting_systematic_review.md"
   ]
 }
