@@ -11,10 +11,14 @@
             "id": "7584490e84fc91c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06_drafts/v1_systematic_review_draft_scholarly_humanized.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "v1_systematic_review_draft_scholarly_humanized"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 457.5
   },
   "right": {
     "id": "4dc61efe2e5d9727",
@@ -179,19 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b07fc53dca7302e",
+  "active": "7584490e84fc91c9",
   "lastOpenFiles": [
+    "07_pdf_outputs/v1_systematic_review_draft_scholarly_humanized.pdf",
+    "06_drafts/v1_systematic_review_draft_reference_validated.md",
+    "07_pdf_outputs",
+    "07_pdf_output",
+    "Nueva carpeta",
+    "06_drafts/v1_systematic_review_draft_scholarly_humanized.md",
+    "06_drafts/v1_systematic_review_humanization_change_log.md",
+    "06_drafts/v1_systematic_review_humanization_flags.md",
+    "06_drafts/v1_systematic_review_humanization_audit.md",
+    "06_drafts/v1_systematic_review_architecture.md",
+    "06_drafts/reference_validation/notebooklm_routing_log.md",
+    "03_notes/clusters/C1_Q01.md",
+    "05_scripts/run_humanization_pass.py",
+    "06_drafts/reference_validation/source_index_crosswalk.csv",
+    "06_drafts/reference_validation/unresolved_reference_gaps.md",
+    "06_drafts/reference_validation/reference_validation_plan.md",
+    "06_drafts/reference_validation/reference_validation_audit.md",
+    "06_drafts/reference_validation/paragraph_citation_ledger.csv",
+    "06_drafts/reference_validation",
+    "06_drafts/v1_systematic_review_audit.md",
     "06_drafts/v1_systematic_review_draft.md",
     "06_drafts",
     "05_scripts/create_draft.py",
     "05_scripts/__pycache__/validate_phase2_clusters.cpython-314.pyc",
-    "05_scripts/__pycache__/fetch_notebooklm_answers.cpython-314.pyc",
-    "05_scripts/__pycache__/fetch_cluster_notebooklm_answers.cpython-314.pyc",
-    "05_scripts/__pycache__/build_cluster_evidence_map.cpython-314.pyc",
-    "05_scripts/__pycache__",
-    "05_scripts/validate_phase3a_synthesis.py",
-    "05_scripts/validate_phase2_clusters.py",
-    "05_scripts/save_notes_batch.py",
     "SKILLS/SYSTEMATIC_REVIEW_ORCHESTRATOR.md",
     "SKILLS/SKILL_SYSTEMATIC_REVIEW_LANDRENT.md",
     "SKILLS/SKILL_PHASE3_LANDRENT_SYNTHESIS.md",
@@ -203,19 +220,6 @@
     "04_review_artifacts/05_reports/phase3a_execution_report_2026-05-29.md",
     "04_review_artifacts/04_memo_architecture/detailed_memo_outline.md",
     "04_review_artifacts/03_synthesis/gap_and_transportability_memo.md",
-    "04_review_artifacts/03_synthesis/thematic_synthesis_map.md",
-    "04_review_artifacts/02_extraction/variable_parameter_ledger.md",
-    "04_review_artifacts/02_extraction/mechanism_ledger.md",
-    "04_review_artifacts/02_extraction/concept_dictionary.md",
-    "04_review_artifacts/01_registries/note_integrity_report.md",
-    "05_skills/SKILL_PHASE3_LANDRENT_SYNTHESIS.md",
-    "04_review_artifacts/00_protocol/phase3_synthesis_protocol.md",
-    "03_notes/clusters/C5_Q04.md",
-    "05_skills/codex_prompt_bootstrap.md",
-    "05_skills/README.md",
-    "05_skills/SKILL_editing_systematic_review.md",
-    "02_LitRev_Sistematica/reports/phase2_execution_report_2026-05-29.md",
-    "05_skills/SYSTEMATIC_REVIEW_ORCHESTRATOR.md",
-    "05_skills/SKILL_drafting_systematic_review.md"
+    "04_review_artifacts/03_synthesis/thematic_synthesis_map.md"
   ]
 }
