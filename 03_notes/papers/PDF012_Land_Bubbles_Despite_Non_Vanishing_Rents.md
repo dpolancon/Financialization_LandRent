@@ -16,13 +16,13 @@ question_notes:
   - PDF012_Q06
   - PDF012_Q07
 created_from:
-  - 03_notes/questions/PDF012_Q01.md
-  - 03_notes/questions/PDF012_Q02.md
-  - 03_notes/questions/PDF012_Q03.md
-  - 03_notes/questions/PDF012_Q04.md
-  - 03_notes/questions/PDF012_Q05.md
-  - 03_notes/questions/PDF012_Q06.md
-  - 03_notes/questions/PDF012_Q07.md
+  - 03_notes/questions/paper/PDF012_Q01.md
+  - 03_notes/questions/paper/PDF012_Q02.md
+  - 03_notes/questions/paper/PDF012_Q03.md
+  - 03_notes/questions/paper/PDF012_Q04.md
+  - 03_notes/questions/paper/PDF012_Q05.md
+  - 03_notes/questions/paper/PDF012_Q06.md
+  - 03_notes/questions/paper/PDF012_Q07.md
 ---
 
 # PDF012 - Land Bubbles Despite Non-Vanishing Rents

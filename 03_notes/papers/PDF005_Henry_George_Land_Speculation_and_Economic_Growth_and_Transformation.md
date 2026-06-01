@@ -16,13 +16,13 @@ question_notes:
   - PDF005_Q06
   - PDF005_Q07
 created_from:
-  - 03_notes/questions/PDF005_Q01.md
-  - 03_notes/questions/PDF005_Q02.md
-  - 03_notes/questions/PDF005_Q03.md
-  - 03_notes/questions/PDF005_Q04.md
-  - 03_notes/questions/PDF005_Q05.md
-  - 03_notes/questions/PDF005_Q06.md
-  - 03_notes/questions/PDF005_Q07.md
+  - 03_notes/questions/paper/PDF005_Q01.md
+  - 03_notes/questions/paper/PDF005_Q02.md
+  - 03_notes/questions/paper/PDF005_Q03.md
+  - 03_notes/questions/paper/PDF005_Q04.md
+  - 03_notes/questions/paper/PDF005_Q05.md
+  - 03_notes/questions/paper/PDF005_Q06.md
+  - 03_notes/questions/paper/PDF005_Q07.md
 ---
 
 # PDF005 - Henry George, Land Speculation, and Economic Growth and Transformation

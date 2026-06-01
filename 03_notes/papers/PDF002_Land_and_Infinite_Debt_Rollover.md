@@ -16,13 +16,13 @@ question_notes:
   - PDF002_Q06
   - PDF002_Q07
 created_from:
-  - 03_notes/questions/PDF002_Q01.md
-  - 03_notes/questions/PDF002_Q02.md
-  - 03_notes/questions/PDF002_Q03.md
-  - 03_notes/questions/PDF002_Q04.md
-  - 03_notes/questions/PDF002_Q05.md
-  - 03_notes/questions/PDF002_Q06.md
-  - 03_notes/questions/PDF002_Q07.md
+  - 03_notes/questions/paper/PDF002_Q01.md
+  - 03_notes/questions/paper/PDF002_Q02.md
+  - 03_notes/questions/paper/PDF002_Q03.md
+  - 03_notes/questions/paper/PDF002_Q04.md
+  - 03_notes/questions/paper/PDF002_Q05.md
+  - 03_notes/questions/paper/PDF002_Q06.md
+  - 03_notes/questions/paper/PDF002_Q07.md
 ---
 
 # PDF002 - Land and Infinite Debt Rollover

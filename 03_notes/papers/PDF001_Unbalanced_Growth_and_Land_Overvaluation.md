@@ -16,13 +16,13 @@ question_notes:
   - PDF001_Q06
   - PDF001_Q07
 created_from:
-  - 03_notes/questions/PDF001_Q01.md
-  - 03_notes/questions/PDF001_Q02.md
-  - 03_notes/questions/PDF001_Q03.md
-  - 03_notes/questions/PDF001_Q04.md
-  - 03_notes/questions/PDF001_Q05.md
-  - 03_notes/questions/PDF001_Q06.md
-  - 03_notes/questions/PDF001_Q07.md
+  - 03_notes/questions/paper/PDF001_Q01.md
+  - 03_notes/questions/paper/PDF001_Q02.md
+  - 03_notes/questions/paper/PDF001_Q03.md
+  - 03_notes/questions/paper/PDF001_Q04.md
+  - 03_notes/questions/paper/PDF001_Q05.md
+  - 03_notes/questions/paper/PDF001_Q06.md
+  - 03_notes/questions/paper/PDF001_Q07.md
 ---
 
 # PDF001 - Unbalanced Growth and Land Overvaluation
