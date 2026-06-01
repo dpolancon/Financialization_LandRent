@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0390a68139572a3f",
+        "id": "43b833ba8bf6463d",
         "type": "tabs",
         "children": [
           {
-            "id": "7584490e84fc91c9",
+            "id": "ff150ce6bc2087b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_drafts/v1_systematic_review_draft_scholarly_humanized.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "v1_systematic_review_draft_scholarly_humanized"
+              "title": "New tab"
             }
           }
         ]
@@ -183,43 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "7584490e84fc91c9",
+  "active": "ff150ce6bc2087b0",
   "lastOpenFiles": [
-    "07_pdf_outputs/v1_systematic_review_draft_scholarly_humanized.pdf",
-    "06_drafts/v1_systematic_review_draft_reference_validated.md",
-    "07_pdf_outputs",
-    "07_pdf_output",
-    "Nueva carpeta",
+    "07_pdf_outputs/memo_literatura_SHT.pdf",
+    "07_pdf_outputs/FONDECYT_SystematicReview.pdf",
+    "06_drafts/v2_systematic_review_draft.md",
+    "07_pdf_outputs/Sin confirmar 17740.crdownload",
+    "04_review_artifacts/05_reports/sht_systematic_review.tex",
+    "04_review_artifacts/05_reports/Sin confirmar 146879.crdownload",
+    "04_review_artifacts/05_reports/2026-05-27.jpg",
+    "04_review_artifacts/05_reports/Sin confirmar 628327.crdownload",
+    "04_review_artifacts/05_reports/sht_citation_crosswalk.md",
+    "04_review_artifacts/05_reports/Sin confirmar 571300.crdownload",
+    "06_drafts/v2_systematic_review_sht_flags.md",
+    "06_drafts/v2_systematic_review_sht_change_log.md",
+    "06_drafts/Sin confirmar 907284.crdownload",
+    "06_drafts/v1_systematic_review_expansion_flags.md",
+    "06_drafts/v1_systematic_review_expansion_change_log.md",
     "06_drafts/v1_systematic_review_draft_scholarly_humanized.md",
-    "06_drafts/v1_systematic_review_humanization_change_log.md",
-    "06_drafts/v1_systematic_review_humanization_flags.md",
-    "06_drafts/v1_systematic_review_humanization_audit.md",
-    "06_drafts/v1_systematic_review_architecture.md",
+    "06_drafts/v1_systematic_review_draft_expanded.md",
     "06_drafts/reference_validation/notebooklm_routing_log.md",
-    "03_notes/clusters/C1_Q01.md",
-    "05_scripts/run_humanization_pass.py",
-    "06_drafts/reference_validation/source_index_crosswalk.csv",
-    "06_drafts/reference_validation/unresolved_reference_gaps.md",
-    "06_drafts/reference_validation/reference_validation_plan.md",
-    "06_drafts/reference_validation/reference_validation_audit.md",
-    "06_drafts/reference_validation/paragraph_citation_ledger.csv",
-    "06_drafts/reference_validation",
-    "06_drafts/v1_systematic_review_audit.md",
-    "06_drafts/v1_systematic_review_draft.md",
-    "06_drafts",
-    "05_scripts/create_draft.py",
-    "05_scripts/__pycache__/validate_phase2_clusters.cpython-314.pyc",
-    "SKILLS/SYSTEMATIC_REVIEW_ORCHESTRATOR.md",
+    "07_pdf_outputs/v1_systematic_review_draft_scholarly_humanized.pdf",
     "SKILLS/SKILL_SYSTEMATIC_REVIEW_LANDRENT.md",
-    "SKILLS/SKILL_PHASE3_LANDRENT_SYNTHESIS.md",
-    "SKILLS/SKILL_editing_systematic_review.md",
-    "SKILLS/SKILL_drafting_systematic_review.md",
-    "SKILLS/README.md",
-    "SKILLS/codex_prompt_bootstrap.md",
-    "04_review_artifacts/05_reports/phase3a_validation_report.md",
-    "04_review_artifacts/05_reports/phase3a_execution_report_2026-05-29.md",
+    "04_review_artifacts/05_reports/phase1_execution_report_2026-05-28.md",
+    "04_review_artifacts/06_expansion/repo_tidying_audit.md",
+    "04_review_artifacts/06_expansion/v1_systematic_review_expansion_audit.md",
+    "04_review_artifacts/06_expansion/final_systematic_review_pass_plan.md",
+    "04_review_artifacts/06_expansion/stale_path_and_duplicate_artifact_audit.md",
+    "04_review_artifacts/06_expansion/active_artifact_map.md",
+    "04_review_artifacts/06_expansion/repo_structure_wrapup_assessment.md",
+    "04_review_artifacts/06_expansion/review_expansion_opportunities.md",
     "04_review_artifacts/04_memo_architecture/detailed_memo_outline.md",
     "04_review_artifacts/03_synthesis/gap_and_transportability_memo.md",
-    "04_review_artifacts/03_synthesis/thematic_synthesis_map.md"
+    "04_review_artifacts/02_extraction/variable_parameter_ledger.md",
+    "04_review_artifacts/02_extraction/mechanism_ledger.md",
+    "04_review_artifacts/02_extraction/concept_dictionary.md",
+    "04_review_artifacts/00_protocol/phase3_synthesis_protocol.md",
+    "03_notes/papers/PDF009_The_Measurement_of_Wealth_Recessions_Sustainability_and_Inequality.md",
+    "04_review_artifacts/06_expansion"
   ]
 }
