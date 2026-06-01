@@ -61,7 +61,7 @@ Total files moved: 130.
 - `03_notes/clusters/C3_credit_land_speculation_low_rates_capital_crowding_out.md`
 - `03_notes/clusters/C4_unbalanced_growth_leverage_land_bubbles_overvaluation.md`
 - `03_notes/clusters/C5_land_r_versus_g_infinite_debt_rollover.md`
-- `03_notes/clusters/C6_policy_henry_george_regulation_fondecyt_translation.md`
+- `03_notes/clusters/C6_georgist_land_rent_capture_regulation.md`
 
 Total synthesized cluster notes created: 6.
 
@@ -128,7 +128,7 @@ Source cluster-question notes:
 
 Paper/page anchors preserved from source notes: PDF002 pp. 1, 2, 16, 17; PDF014 p. 4. Additional page references exist in paper-level notes and extraction artifacts and should be checked before final quotation.
 
-### C6: Policy, Henry George, regulation, and Fondecyt translation
+### C6: Georgist land-rent capture and regulation
 
 Source cluster-question notes:
 
@@ -178,3 +178,14 @@ Some model expressions and policy claims in the former cluster-question notes we
 - [x] `03_notes/clusters/` no longer contains old `C*_Q*.md` per-question cluster notes.
 - [x] Tests are not applicable; this is a notes and documentation reorganization.
 - [x] `git status` was checked. The working tree contains intended migration/synthesis changes only, rather than unrelated pre-existing changes.
+
+## 8. Post-migration correction: C6 split
+
+The former mixed C6 note was split into:
+
+- `03_notes/clusters/C6_georgist_land_rent_capture_regulation.md`
+- `04_synthesis/fondecyt_translation/FONDECYT_translation_from_SHT_literature.md`
+
+Reason: the Georgist policy/regulation material is part of the literature synthesis, while the Fondecyt translation is a project-facing bridge note and should not be treated as a literature cluster.
+
+The old mixed note `03_notes/clusters/C6_policy_henry_george_regulation_fondecyt_translation.md` no longer exists as an active file. Remaining references to it should appear only as migration history or supersession metadata.
