@@ -15,8 +15,8 @@
 - `01_memo_ejecutivo_V0.1/notas_memo/04_Land_Overvaluation_Debt_Rollover.md`
 - `01_memo_ejecutivo_V0.1/notas_memo/05_OUTPUT_Memo_Breve_IP.md`
 - `01_memo_ejecutivo_V0.1/notas_memo/preguntas_DT_Brief.md`
-- `03_notes/questions/PDF001_Q01.md` through `03_notes/questions/PDF014_Q07.md`
-- `03_notes/clusters/C1_Q01.md` through `03_notes/clusters/C6_Q06.md`
+- `03_notes/questions/paper/PDF001_Q01.md` through `03_notes/questions/paper/PDF014_Q07.md`
+- `03_notes/questions/clusters/C1_Q01.md` through `03_notes/questions/clusters/C6_Q06.md`
 - `04_review_artifacts/02_extraction/extraction_matrix.csv`
 - `04_review_artifacts/02_extraction/concept_dictionary.md`
 - `04_review_artifacts/02_extraction/mechanism_ledger.md`

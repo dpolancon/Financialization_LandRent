@@ -16,13 +16,13 @@ question_notes:
   - PDF003_Q06
   - PDF003_Q07
 created_from:
-  - 03_notes/questions/PDF003_Q01.md
-  - 03_notes/questions/PDF003_Q02.md
-  - 03_notes/questions/PDF003_Q03.md
-  - 03_notes/questions/PDF003_Q04.md
-  - 03_notes/questions/PDF003_Q05.md
-  - 03_notes/questions/PDF003_Q06.md
-  - 03_notes/questions/PDF003_Q07.md
+  - 03_notes/questions/paper/PDF003_Q01.md
+  - 03_notes/questions/paper/PDF003_Q02.md
+  - 03_notes/questions/paper/PDF003_Q03.md
+  - 03_notes/questions/paper/PDF003_Q04.md
+  - 03_notes/questions/paper/PDF003_Q05.md
+  - 03_notes/questions/paper/PDF003_Q06.md
+  - 03_notes/questions/paper/PDF003_Q07.md
 ---
 
 # PDF003 - Credit, Land Speculation, and Low-Interest-Rate Policy

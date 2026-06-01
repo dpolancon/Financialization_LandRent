@@ -16,13 +16,13 @@ question_notes:
   - PDF011_Q06
   - PDF011_Q07
 created_from:
-  - 03_notes/questions/PDF011_Q01.md
-  - 03_notes/questions/PDF011_Q02.md
-  - 03_notes/questions/PDF011_Q03.md
-  - 03_notes/questions/PDF011_Q04.md
-  - 03_notes/questions/PDF011_Q05.md
-  - 03_notes/questions/PDF011_Q06.md
-  - 03_notes/questions/PDF011_Q07.md
+  - 03_notes/questions/paper/PDF011_Q01.md
+  - 03_notes/questions/paper/PDF011_Q02.md
+  - 03_notes/questions/paper/PDF011_Q03.md
+  - 03_notes/questions/paper/PDF011_Q04.md
+  - 03_notes/questions/paper/PDF011_Q05.md
+  - 03_notes/questions/paper/PDF011_Q06.md
+  - 03_notes/questions/paper/PDF011_Q07.md
 ---
 
 # PDF011 - New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part I. The Wealth Residual

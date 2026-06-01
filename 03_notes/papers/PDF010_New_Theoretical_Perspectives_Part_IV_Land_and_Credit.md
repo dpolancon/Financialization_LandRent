@@ -16,13 +16,13 @@ question_notes:
   - PDF010_Q06
   - PDF010_Q07
 created_from:
-  - 03_notes/questions/PDF010_Q01.md
-  - 03_notes/questions/PDF010_Q02.md
-  - 03_notes/questions/PDF010_Q03.md
-  - 03_notes/questions/PDF010_Q04.md
-  - 03_notes/questions/PDF010_Q05.md
-  - 03_notes/questions/PDF010_Q06.md
-  - 03_notes/questions/PDF010_Q07.md
+  - 03_notes/questions/paper/PDF010_Q01.md
+  - 03_notes/questions/paper/PDF010_Q02.md
+  - 03_notes/questions/paper/PDF010_Q03.md
+  - 03_notes/questions/paper/PDF010_Q04.md
+  - 03_notes/questions/paper/PDF010_Q05.md
+  - 03_notes/questions/paper/PDF010_Q06.md
+  - 03_notes/questions/paper/PDF010_Q07.md
 ---
 
 # PDF010 - New Theoretical Perspectives on the Distribution of Income and Wealth among Individuals: Part IV: Land and Credit

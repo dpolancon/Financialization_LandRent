@@ -16,13 +16,13 @@ question_notes:
   - PDF013_Q06
   - PDF013_Q07
 created_from:
-  - 03_notes/questions/PDF013_Q01.md
-  - 03_notes/questions/PDF013_Q02.md
-  - 03_notes/questions/PDF013_Q03.md
-  - 03_notes/questions/PDF013_Q04.md
-  - 03_notes/questions/PDF013_Q05.md
-  - 03_notes/questions/PDF013_Q06.md
-  - 03_notes/questions/PDF013_Q07.md
+  - 03_notes/questions/paper/PDF013_Q01.md
+  - 03_notes/questions/paper/PDF013_Q02.md
+  - 03_notes/questions/paper/PDF013_Q03.md
+  - 03_notes/questions/paper/PDF013_Q04.md
+  - 03_notes/questions/paper/PDF013_Q05.md
+  - 03_notes/questions/paper/PDF013_Q06.md
+  - 03_notes/questions/paper/PDF013_Q07.md
 ---
 
 # PDF013 - Credit, Land Speculation, and Long-Run Economic Growth

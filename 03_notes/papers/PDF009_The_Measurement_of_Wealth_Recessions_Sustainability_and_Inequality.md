@@ -16,13 +16,13 @@ question_notes:
   - PDF009_Q06
   - PDF009_Q07
 created_from:
-  - 03_notes/questions/PDF009_Q01.md
-  - 03_notes/questions/PDF009_Q02.md
-  - 03_notes/questions/PDF009_Q03.md
-  - 03_notes/questions/PDF009_Q04.md
-  - 03_notes/questions/PDF009_Q05.md
-  - 03_notes/questions/PDF009_Q06.md
-  - 03_notes/questions/PDF009_Q07.md
+  - 03_notes/questions/paper/PDF009_Q01.md
+  - 03_notes/questions/paper/PDF009_Q02.md
+  - 03_notes/questions/paper/PDF009_Q03.md
+  - 03_notes/questions/paper/PDF009_Q04.md
+  - 03_notes/questions/paper/PDF009_Q05.md
+  - 03_notes/questions/paper/PDF009_Q06.md
+  - 03_notes/questions/paper/PDF009_Q07.md
 ---
 
 # PDF009 - The Measurement of Wealth: Recessions, Sustainability and Inequality

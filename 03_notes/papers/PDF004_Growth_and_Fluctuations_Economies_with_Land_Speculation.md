@@ -16,13 +16,13 @@ question_notes:
   - PDF004_Q06
   - PDF004_Q07
 created_from:
-  - 03_notes/questions/PDF004_Q01.md
-  - 03_notes/questions/PDF004_Q02.md
-  - 03_notes/questions/PDF004_Q03.md
-  - 03_notes/questions/PDF004_Q04.md
-  - 03_notes/questions/PDF004_Q05.md
-  - 03_notes/questions/PDF004_Q06.md
-  - 03_notes/questions/PDF004_Q07.md
+  - 03_notes/questions/paper/PDF004_Q01.md
+  - 03_notes/questions/paper/PDF004_Q02.md
+  - 03_notes/questions/paper/PDF004_Q03.md
+  - 03_notes/questions/paper/PDF004_Q04.md
+  - 03_notes/questions/paper/PDF004_Q05.md
+  - 03_notes/questions/paper/PDF004_Q06.md
+  - 03_notes/questions/paper/PDF004_Q07.md
 ---
 
 # PDF004 - Growth and Fluctuations Economies with Land Speculation

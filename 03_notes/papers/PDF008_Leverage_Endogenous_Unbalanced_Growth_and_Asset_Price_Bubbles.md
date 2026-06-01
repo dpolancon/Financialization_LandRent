@@ -16,13 +16,13 @@ question_notes:
   - PDF008_Q06
   - PDF008_Q07
 created_from:
-  - 03_notes/questions/PDF008_Q01.md
-  - 03_notes/questions/PDF008_Q02.md
-  - 03_notes/questions/PDF008_Q03.md
-  - 03_notes/questions/PDF008_Q04.md
-  - 03_notes/questions/PDF008_Q05.md
-  - 03_notes/questions/PDF008_Q06.md
-  - 03_notes/questions/PDF008_Q07.md
+  - 03_notes/questions/paper/PDF008_Q01.md
+  - 03_notes/questions/paper/PDF008_Q02.md
+  - 03_notes/questions/paper/PDF008_Q03.md
+  - 03_notes/questions/paper/PDF008_Q04.md
+  - 03_notes/questions/paper/PDF008_Q05.md
+  - 03_notes/questions/paper/PDF008_Q06.md
+  - 03_notes/questions/paper/PDF008_Q07.md
 ---
 
 # PDF008 - Leverage, Endogenous Unbalanced Growth, and Asset Price Bubbles
