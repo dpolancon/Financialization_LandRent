@@ -11,10 +11,12 @@
             "id": "ff150ce6bc2087b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "07_pdf_outputs/memo_literatura_SHT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "memo_literatura_SHT"
             }
           }
         ]
@@ -181,8 +183,8 @@
   },
   "active": "ff150ce6bc2087b0",
   "lastOpenFiles": [
-    "07_pdf_outputs/memo_literatura_SHT.pdf",
     "07_pdf_outputs/FONDECYT_SystematicReview.pdf",
+    "07_pdf_outputs/memo_literatura_SHT.pdf",
     "06_drafts/v2_systematic_review_draft.md",
     "07_pdf_outputs/Sin confirmar 17740.crdownload",
     "04_review_artifacts/05_reports/sht_systematic_review.tex",
