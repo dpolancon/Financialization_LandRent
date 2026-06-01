@@ -16,13 +16,13 @@ question_notes:
   - PDF014_Q06
   - PDF014_Q07
 created_from:
-  - 03_notes/questions/PDF014_Q01.md
-  - 03_notes/questions/PDF014_Q02.md
-  - 03_notes/questions/PDF014_Q03.md
-  - 03_notes/questions/PDF014_Q04.md
-  - 03_notes/questions/PDF014_Q05.md
-  - 03_notes/questions/PDF014_Q06.md
-  - 03_notes/questions/PDF014_Q07.md
+  - 03_notes/questions/paper/PDF014_Q01.md
+  - 03_notes/questions/paper/PDF014_Q02.md
+  - 03_notes/questions/paper/PDF014_Q03.md
+  - 03_notes/questions/paper/PDF014_Q04.md
+  - 03_notes/questions/paper/PDF014_Q05.md
+  - 03_notes/questions/paper/PDF014_Q06.md
+  - 03_notes/questions/paper/PDF014_Q07.md
 ---
 
 # PDF014 - Land, G versus R, and Infinite Debt Rollover

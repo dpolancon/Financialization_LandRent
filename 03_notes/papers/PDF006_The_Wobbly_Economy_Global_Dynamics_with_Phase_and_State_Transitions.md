@@ -16,13 +16,13 @@ question_notes:
   - PDF006_Q06
   - PDF006_Q07
 created_from:
-  - 03_notes/questions/PDF006_Q01.md
-  - 03_notes/questions/PDF006_Q02.md
-  - 03_notes/questions/PDF006_Q03.md
-  - 03_notes/questions/PDF006_Q04.md
-  - 03_notes/questions/PDF006_Q05.md
-  - 03_notes/questions/PDF006_Q06.md
-  - 03_notes/questions/PDF006_Q07.md
+  - 03_notes/questions/paper/PDF006_Q01.md
+  - 03_notes/questions/paper/PDF006_Q02.md
+  - 03_notes/questions/paper/PDF006_Q03.md
+  - 03_notes/questions/paper/PDF006_Q04.md
+  - 03_notes/questions/paper/PDF006_Q05.md
+  - 03_notes/questions/paper/PDF006_Q06.md
+  - 03_notes/questions/paper/PDF006_Q07.md
 ---
 
 # PDF006 - The Wobbly Economy: Global Dynamics with Phase and State Transitions

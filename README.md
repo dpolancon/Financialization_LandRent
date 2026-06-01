@@ -27,8 +27,9 @@ Final publication-style closure still requires original PDFs and page-level cita
 5. `03_notes/papers/`
 6. `03_notes/questions/`
 7. `03_notes/clusters/`
-8. `04_review_artifacts/02_extraction/extraction_matrix.csv`
-9. `06_drafts/reference_validation/paragraph_citation_ledger.csv`
+8. `04_synthesis/fondecyt_translation/FONDECYT_translation_from_SHT_literature.md`
+9. `04_review_artifacts/02_extraction/extraction_matrix.csv`
+10. `06_drafts/reference_validation/paragraph_citation_ledger.csv`
 
 ## Repository Layers
 
@@ -41,8 +42,11 @@ Final publication-style closure still requires original PDFs and page-level cita
 `03_notes/` is the active note system:
 
 - `03_notes/papers/` is the main reading layer.
-- `03_notes/questions/` is the atomic per-paper provenance layer.
-- `03_notes/clusters/` is the thematic synthesis layer.
+- `03_notes/questions/paper/` is the atomic per-paper question-note provenance layer.
+- `03_notes/questions/clusters/` preserves the former cluster-per-question notes.
+- `03_notes/clusters/` is the literature cluster synthesis layer. It should contain synthesized per-cluster notes, not project-translation bridge notes.
+
+`04_synthesis/` contains cross-cluster synthesis and project-facing bridge material that should not be treated as a literature cluster. The current Fondecyt bridge note is `04_synthesis/fondecyt_translation/FONDECYT_translation_from_SHT_literature.md`.
 
 `04_review_artifacts/` is the review infrastructure and output-control layer. It contains the extraction matrix, synthesis maps, memo architecture, expansion plan, active artifact map, and final-pass planning.
 

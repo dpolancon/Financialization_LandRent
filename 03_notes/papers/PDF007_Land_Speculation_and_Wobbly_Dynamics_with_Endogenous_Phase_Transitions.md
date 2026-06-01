@@ -16,13 +16,13 @@ question_notes:
   - PDF007_Q06
   - PDF007_Q07
 created_from:
-  - 03_notes/questions/PDF007_Q01.md
-  - 03_notes/questions/PDF007_Q02.md
-  - 03_notes/questions/PDF007_Q03.md
-  - 03_notes/questions/PDF007_Q04.md
-  - 03_notes/questions/PDF007_Q05.md
-  - 03_notes/questions/PDF007_Q06.md
-  - 03_notes/questions/PDF007_Q07.md
+  - 03_notes/questions/paper/PDF007_Q01.md
+  - 03_notes/questions/paper/PDF007_Q02.md
+  - 03_notes/questions/paper/PDF007_Q03.md
+  - 03_notes/questions/paper/PDF007_Q04.md
+  - 03_notes/questions/paper/PDF007_Q05.md
+  - 03_notes/questions/paper/PDF007_Q06.md
+  - 03_notes/questions/paper/PDF007_Q07.md
 ---
 
 # PDF007 - Land Speculation and Wobbly Dynamics with Endogenous Phase Transitions
