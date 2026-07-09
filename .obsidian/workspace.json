@@ -11,12 +11,14 @@
             "id": "ff150ce6bc2087b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "07_pdf_outputs/memo_literatura_SHT.pdf"
+                "file": "03_notes/Z_editing_systematic_review/FONDECYT_translation_from_SHT_literature.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "memo_literatura_SHT"
+              "icon": "lucide-file",
+              "title": "FONDECYT_translation_from_SHT_literature"
             }
           }
         ]
@@ -181,9 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff150ce6bc2087b0",
+  "active": "3b07fc53dca7302e",
   "lastOpenFiles": [
+    "04_review_artifacts/06_expansion/review_expansion_opportunities.md",
     "07_pdf_outputs/FONDECYT_SystematicReview.pdf",
+    "03_notes/Z_editing_systematic_review/FONDECYT_translation_from_SHT_literature.md",
+    "03_notes/Z_editing_systematic_review/master_memo.md",
+    "03_notes/Z_editing_systematic_review/study_memo.md",
+    "03_notes/Z_editing_systematic_review/comments.md",
+    "03_notes/Z_editing_systematic_review/Comentarios.md",
+    "03_notes/clusters/CLUSTER_SYNTHESIS_MIGRATION_REPORT.md",
+    "03_notes/Z_editing_systematic_review",
+    "03_notes/clusters/C3_credit_land_speculation_low_rates_capital_crowding_out.md",
+    "03_notes/clusters/C2_wobbly_dynamics_phase_transitions_land_price_instability.md",
+    "03_notes/clusters/C1_measurement_wealth_capital_rent_capitalization.md",
+    "02_LitRev_Sistematica/01_per_paper_question_notes/PDF001/PDF001_Q02.md",
+    "02_LitRev_Sistematica/01_per_paper_question_notes/PDF001/PDF001_Q01.md",
+    "03_notes/questions/clusters/C1_Q01.md",
     "07_pdf_outputs/memo_literatura_SHT.pdf",
     "06_drafts/v2_systematic_review_draft.md",
     "07_pdf_outputs/Sin confirmar 17740.crdownload",
@@ -204,20 +220,6 @@
     "07_pdf_outputs/v1_systematic_review_draft_scholarly_humanized.pdf",
     "SKILLS/SKILL_SYSTEMATIC_REVIEW_LANDRENT.md",
     "04_review_artifacts/05_reports/phase1_execution_report_2026-05-28.md",
-    "04_review_artifacts/06_expansion/repo_tidying_audit.md",
-    "04_review_artifacts/06_expansion/v1_systematic_review_expansion_audit.md",
-    "04_review_artifacts/06_expansion/final_systematic_review_pass_plan.md",
-    "04_review_artifacts/06_expansion/stale_path_and_duplicate_artifact_audit.md",
-    "04_review_artifacts/06_expansion/active_artifact_map.md",
-    "04_review_artifacts/06_expansion/repo_structure_wrapup_assessment.md",
-    "04_review_artifacts/06_expansion/review_expansion_opportunities.md",
-    "04_review_artifacts/04_memo_architecture/detailed_memo_outline.md",
-    "04_review_artifacts/03_synthesis/gap_and_transportability_memo.md",
-    "04_review_artifacts/02_extraction/variable_parameter_ledger.md",
-    "04_review_artifacts/02_extraction/mechanism_ledger.md",
-    "04_review_artifacts/02_extraction/concept_dictionary.md",
-    "04_review_artifacts/00_protocol/phase3_synthesis_protocol.md",
-    "03_notes/papers/PDF009_The_Measurement_of_Wealth_Recessions_Sustainability_and_Inequality.md",
-    "04_review_artifacts/06_expansion"
+    "04_review_artifacts/06_expansion/repo_tidying_audit.md"
   ]
 }

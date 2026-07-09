@@ -1,0 +1,45 @@
+# PI Comments Ledger: Hirano-Stiglitz-Toda Systematic Review
+
+## 📌 Global / Structural Actions
+Before diving into paragraph-specific edits, note these major structural decisions requested by the PI:
+1. **DELETE P37**: The PI finds this paragraph weak and redundant. Remove it for now to keep the document synthetic.
+2. **DELETE Redundant Paragraph (Post-P39/P40)**: The PI explicitly requested deleting a paragraph near the end of Section 10 that repeats earlier points.
+3. **ADD Post-Keynesian/Minsky Connection**: In Section 8 (Wobbly Dynamics), explicitly bridge the SHT endogenous instability concepts with Minsky's Financial Instability Hypothesis and connect it to Esteban's work.
+4. **Terminology Shift**: Globally replace "capacidades productivas" with "acumulación de capital" to avoid confusion with technological progress (Cobb-Douglas *A*).
+
+---
+
+## 📝 Paragraph-by-Paragraph Ledger
+
+| Ref | PI's Original Comment (ES) | Core Issue / Question | Action Required |
+| :--- | :--- | :--- | :--- |
+| **P01** | *"en realidad es 'sin agregar capital', salvo que las 'capacidades productivas' sean una función de la acumulación de capital y no del cambio tecnológico... yo creo que es preferible en vez de hablar de 'capacidades productivas', hablar de acumulación de capital."* | Terminology confusion. "Productive capacity" implies tech progress, but the issue is physical capital accumulation vs. land value. | **Rewrite:** Replace "capacidades productivas" with "acumulación de capital". Clarify that land price inflation raises wealth *without* adding to the physical capital stock. |
+| **P01** | *"no entiendo este párrafo"* | Lack of clarity. | **Rewrite:** Simplify and clarify the core argument of P01. Ensure the distinction between wealth measurement and real capital accumulation is crystal clear. |
+| **P11** | *"detallar los símbolos para que sea explicativa la notación"* | Math notation is unexplained. | **Add:** Define all variables in the equation $k_{t+1} + P_t = s_t(w_t + e)$ immediately after the formula (e.g., $k$ = capital, $P$ = land price, $s$ = savings, etc.). |
+| **P15** | *"en el contexto de esta frase creo que no es adecuado este concepto. ¿qué sería un marginal loan dedicado a 'posiciones de colateral'?"* | Conceptual inaccuracy. Loans finance assets, not "collateral positions". | **Rephrase:** Change "finances collateral positions" to something like "finances down payments or speculative asset purchases using land as collateral". |
+| **P21** | *"este es un elemento central del análisis no estoy seguro de estar interpretando correctamente la elasticidad de sustitución... ¿cómo se puede conciliar con el supuesto de rendimientos marginales decrecientes que fundamenta la renta ricardiana?"* | Theoretical friction between $\sigma > 1$ and Ricardian rent. | **Clarify:** Add a sentence explaining how the model reconciles the elasticity of substitution ($\sigma > 1$) with diminishing marginal returns and Ricardian rent theory. |
+| **P21** | *"por qué? según la ecuación no lo hace negativo"* | Mathematical discrepancy. | **Check Math:** Review the text's claim about the exponent being negative. Ensure the text accurately reflects the math in Equation (1). |
+| **P24** | *"excelente. Leverage acelerator lo estás derivando del teorema de Overvaluation, cierto? Entiendo que sí. Favor corroborar."* | Missing explicit link between mechanisms. | **Add:** Insert a sentence explicitly stating that the leverage accelerator mechanism is derived from / builds upon the Land Overvaluation Theorem. |
+| **P28** | *"esto es central para nuestro trabajo"* | Needs emphasis. | **Highlight:** Strengthen the wording in P28 to emphasize that this translation (from OLG to financialized owners) is the core contribution of the Fondecyt project. |
+| **P29** | *"me parece imprescindible entrar a ver qué están (y estamos) entendiendo por productividad del suelo porque ricardianamente hay que decir que 'las rentas del suelo crecen cuando la productividad marginal de la tierra baja'."* | Definition of "land productivity". | **Define:** Clarify the exact definition of "land productivity" used by SHT and contrast it explicitly with the classical/Ricardian definition. |
+| **P29** | *"QUÉ ES ESTO?"* | Confusion over a specific term/concept in the text. | **Clarify:** Identify the term the PI is pointing at (likely related to wobbly dynamics or phase transitions) and define it plainly. |
+| **P29** | *"EXACTO. AQUÍ HAY ESPACIO, CREO, PARA UNA CONEXION CON POSKEYNESIANOS (MINSKY EN PARTICULAR) QUE PODRÍA SER ATRACTIVA PARA NOSOTROS. Y CONECTAR CON ESTEBAN."* | Theoretical expansion. | **Add:** Draft a paragraph connecting SHT's "endogenous instability" and "wobbly dynamics" to Minsky's Financial Instability Hypothesis. Mention Esteban's related work. |
+| **P33** | *"Claro, efectivamente el foco del proyecto no es i el suelo está sobrevalorado sino cómo esta sobrevaloración se asocia a un 'desfinanciamiento' de la acumulación de capital"* | Refocusing the project's core question. | **Rewrite:** Adjust P33 to explicitly state that the focus is on the *crowding-out / defunding* ("desfinanciamiento") of capital accumulation caused by overvaluation. |
+| **P33** | *"O incluso ausencia de colaterales"* | Missing variable. | **Add:** Include the "absence of collateral" (or collateral constraints) as a key factor in the policy/measurement discussion. |
+| **P37** | *"si está basado en rentas percibidas no se generaría ese problema (por ende dejaría solo el concepto 'land values' pero no 'capitalized rents'"* | Conceptual overlap. | **Edit:** If keeping any part of this section, drop "capitalized rents" and stick strictly to "land values". *(Note: PI also says to delete the whole paragraph, see Global Actions).* |
+| **P37** | *"a qué se refiere con esto?" / "no entiendo este problema"* | Lack of clarity on a specific reference/problem. | **Clarify or Delete:** Since the PI finds the paragraph weak and wants to delete it, resolving this might be unnecessary if you follow the deletion order. |
+| **P37** | *"en general este párrafo me parece debil. Yo prefiero sacarlo por ahora."* | Structural edit. | **DELETE P37**. |
+| **P37** | *"no es aplicable este concepto a la materia que estamos tratando. mejor reemplazarlo por 'fundamento', algo así."* | Terminology. | **Edit:** If this comment applies to a neighboring paragraph (like P38), replace the confusing concept with "fundamento" (fundamental value). |
+| **P39 / Table 2** | *"bien, esta es una especificación que hacemos y que proviene además de una crítica a los autores revisados los cuales optan por OLG."* | Acknowledgment of OLG critique. | **Note:** Ensure the critique of OLG is clearly framed as *your* project's specification, not SHT's. |
+| **P39 / Table 2** | *"HAY ALGO QUE NO ENTIENDO. PORQUE LA ELASTICIDAD DE SUSTITUCIÓN REFIERE AL CAMBIO EN LAS PROPORCIONES... PERO ¿EN QUÉ MOMENTO ENTRA AHÍ LA PRODUCTIVIDAD DE LOS FACTORES?... YO PIENSO QUE LA ELASTICIDAD DE SUSTITUCIÓN PORIA EXPLICARSE POR EL PRECIO DE COSTE DE LOS FACTORES, NO POR SU PRODUCTIVIDAD."* | Deep theoretical question on Elasticity of Substitution. | **Address:** Add a footnote or clarifying text explaining how SHT link factor productivity to the elasticity of substitution, distinguishing it from the standard price-ratio definition. |
+| **P39 / Table 2** | *"CREO QUE TE SIGO LA ONDA. ACÁ ENTONCES EL 'UNBALANCED' ES UNA FORMA DE DECIR: SOBREACUMULACIÓN. O NO? QUÉ DIFERENCIA HAY ENTRE DECIR 'CRECIMIENTO DESBALANCEADO' Y 'CRECIMIENTO IMPULSADO POR LA SOBREACUMULACIÓN'?"* | Conceptual translation. | **Clarify:** Explicitly define the difference between SHT's "unbalanced growth" (differential productivity) and the project's use of "overaccumulation". |
+| **P39 / P40** | *"TODA LA RAZON. IMPORTANTE ADVERTENCIA."* | Agreement with a caveat. | **Highlight:** Ensure the warning/caveat the PI is agreeing with is prominently displayed in the text. |
+| **P39 / P40** | *"ELIMINARÍA ESTE PÁRRAFO PORQUE CREO QUE ES REDUNDANTE CON LO QUE YA SE HA DICHO. CREO QUE APORTA POCO ENTONCES PARA HACER UN POCO MÁS SINTETICO EL DOCUMENTO ME PARECE PRESCINDIBLE."* | Structural edit. | **DELETE** the paragraph immediately preceding this comment (likely P40 or the concluding text of Section 10). |
+
+---
+
+## 💡 Next Steps for the Author
+1. **Execute Deletions First**: Remove P37 and the redundant paragraph at the end of Section 10. This will immediately make the document more synthetic, as requested.
+2. **Address the "Minsky" Bridge**: Draft the connection between SHT's wobbly dynamics and Minsky. This is a major theoretical value-add for the Fondecyt proposal.
+3. **Fix the Math/Notation**: Go through P11 and P21. Define the symbols clearly and double-check the text's explanation of the exponent in Equation 1.
+4. **Clarify "Unbalanced Growth" vs "Overaccumulation"**: The PI is highly engaged with how you are translating SHT's macroeconomic terms into Latin American political economy terms. Make sure Table 2 and the surrounding text clearly draw this boundary.
